@@ -1,6 +1,6 @@
 # Analysis of 2019 European Elections in Italy.
 
-### Methods and Models for Statistical Inference, A.Y. 2019/2020, Politecnico di Milano
+### Methods and Models for Statistical Inference - A.Y. 2019/2020 - Politecnico di Milano
 
 Authors: Carlo Ghiglione, Leonardo Perelli, Paolo Motta
 
