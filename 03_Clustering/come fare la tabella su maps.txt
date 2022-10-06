@@ -1,0 +1,6 @@
+vai su my maps
+importa la tabella
+imposta le province come etichette
+aggiungi livello importando di nuovo
+metti ancora come etichette le province
+vai su stile uniforme e cambia a stile colonna di dati mettendo come colonna cluster
